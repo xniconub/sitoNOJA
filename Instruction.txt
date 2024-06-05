@@ -1,0 +1,18 @@
+Instructions
+
+Utilizzando i contenuti che trovi ai due seguenti link
+Bootstrap e w3schools
+e utilizzando i file di esempio dei vari elementi che è possibile
+inserire in un sito web, progetta e realizza un sito con un layot
+originale elaborato da te.
+Il sito ha lo scopo di promuovere il turismo nella tua città.
+Il sito deve essere responsive e deve:
+
+contenere immagini e link
+dare la possibilità di navigare agevolmente tra le pagine
+contenere la pagina principale e altre due pagine a scelta
+a scelta approfondire e utilizzare altri elementi proposti da bootstrap tra quelli presenti nel menu componentes sul sito di Bootstrap
+Non è opportuno l'utilizzo di tamplate pronti
+
+
+Il lavoro sarà oggetto di valutazione insieme alla capacità di spiegare come il lavoro è stato realizzato.

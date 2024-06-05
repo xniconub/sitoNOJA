@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar {
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel .item img {
+   left: 20px;  /*important */
+   right: 20px;  /*important */
+   margin: 0 auto;  /*important */
+   max-width: none;  /*important */
+   min-width: 100%;
+   position: center;
+}
